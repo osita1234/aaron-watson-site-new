@@ -1,3 +1,5 @@
+import "./globals.css";
+
 export const metadata = {
   title: "AARON WATSON",
   description: "Official website of Aaron Watson — Musician and Comedian",
